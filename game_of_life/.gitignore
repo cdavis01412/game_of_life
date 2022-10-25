@@ -1,0 +1,8 @@
+# MacOS Specific
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VScode
+.vscode
